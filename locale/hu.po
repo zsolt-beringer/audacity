@@ -8769,7 +8769,7 @@ msgstr "Zaj:"
 #. i18n-hint: Translate differently from "Residue" !
 #: src/effects/NoiseReduction.cpp
 msgid "Re&duce"
-msgstr "&Csökkentés"
+msgstr "&📉"
 
 #: src/effects/NoiseReduction.cpp src/effects/NoiseRemoval.cpp
 msgid "&Isolate"
